@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Grupo 16
+Class-Path: bin/ lib/core-3.3.0.jar lib/javase-3.3.0.jar
+Main-Class: Trokos
